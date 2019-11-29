@@ -1,0 +1,47 @@
+BAYESIAN OPTIMIZATION ALGORITHM
+NAME OF EXPERIMENT: BB_12_3
+TOTAL OF EXPERIMENTS: 1
+=================================================
+PARAMETERS
+N TOURNAMENT: 1
+K TOURNAMENT: 10
+SIZE BLOCK: 12
+QT OF BBs: 3
+MAX GENERATIONS: 20
+SIZE OF POPULATION: 100
+FIT FUNCTION: TRAP K
+TOLERANCE: 0
+=================================================
+RESULTS
+hc - k2
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+hc - aic
+BEST FIT: 12
+STOP: 7
+--------------------------------------------
+hc - bic
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+hc - bds
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+tabu - k2
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+tabu - aic
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+tabu - bic
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
+tabu - bds
+BEST FIT: 12
+STOP: 6
+--------------------------------------------
